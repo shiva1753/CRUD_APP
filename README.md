@@ -239,10 +239,6 @@ Please follow the existing code style and keep components clean and minimal.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — you're free to use, modify, and distribute it.
-
 ---
 
 <div align="center">
